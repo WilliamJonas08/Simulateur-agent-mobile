@@ -1,3 +1,7 @@
+# How to run the project
+
+python app.py
+
 # Building and installing project
 
 pip install .
